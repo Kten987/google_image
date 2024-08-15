@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\thinh.lv\Desktop\Skindex\Google_image\venv\lib\site-packages\botasaurus\request_decorator.py", line 110, in run_task
+    result = func(reqs, data)
+  File "C:\Users\thinh.lv\Desktop\Skindex\Google_image\crawl_image.py", line 39, in google_search
+    match = re.search(r'"hNWTX7gDx19p1M",\s+\[([^]]+)\],\s+\[([^]]+)\]', scripts)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\re.py", line 200, in search
+    return _compile(pattern, flags).search(string)
+TypeError: expected string or bytes-like object
