@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\thinh.lv\Desktop\Skindex\Google_image\venv\lib\site-packages\botasaurus\request_decorator.py", line 110, in run_task
-    result = func(reqs, data)
-TypeError: google_search() takes 1 positional argument but 2 were given

@@ -1,2 +1,6 @@
 venv/
 myenv/
+error_logs/
+image/
+image_2/
+out_put_main/

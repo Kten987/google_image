@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\thinh.lv\Desktop\Skindex\Google_image\venv\lib\site-packages\botasaurus\request_decorator.py", line 110, in run_task
-    result = func(reqs, data)
-  File "C:\Users\thinh.lv\Desktop\Skindex\Google_image\crawl_image.py", line 26, in google_search
-    data_docid = first_result.get("data-docid")
-AttributeError: 'NoneType' object has no attribute 'get'
